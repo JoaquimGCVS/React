@@ -1,7 +1,7 @@
-# ⚛️ Projetos e Estudos com React – Joaquim GCVS 
+# ⚛️ Projetos e Estudos com React – Joaquim Vilela
 
 Este repositório reúne projetos, anotações e práticas desenvolvidas com a biblioteca **React**, com foco em aprendizado, reforço de conceitos e construção de aplicações modernas e reutilizáveis.  
-
+Todo o conteúdo foi desenvolvido por **Joaquim Vilela**, com o objetivo de documentar a evolução pessoal e também apoiar outros desenvolvedores iniciantes ou curiosos sobre a tecnologia.
 ---
 
 ## 📁 Estrutura do Repositório
