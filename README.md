@@ -11,7 +11,6 @@ Todo o conteúdo foi desenvolvido por **Joaquim Vilela**, com o objetivo de docu
 |----------------------|------------------------------------------------------|
 | `projetos`           | Pequenas aplicações completas feitas com React       |
 | `estudos`            | Componentes, hooks, testes e conceitos isolados      |
-| `exemplos-comentados`| Trechos de código comentados e focados em aprendizado|
 
 ---
 
