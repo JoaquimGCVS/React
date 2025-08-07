@@ -48,4 +48,12 @@ Todo o conteúdo foi desenvolvido por **Joaquim Vilela**, com o objetivo de docu
 
 **Joaquim Guilherme de Carvalho Vilela Silva**  
 Estudante de Engenharia de Software – PUC Minas  
-GitHub: [@JoaquimGCVS](https://github.com/JoaquimGCVS)
+Full-Stack Developer  
+
+🔗 **Links importantes:**
+* GitHub: [@JoaquimGCVS](https://github.com/JoaquimGCVS)  
+* LinkedIn: [Joaquim Vilela](https://www.linkedin.com/in/joaquim-vilela/)  
+
+---
+
+⭐ **Se este projeto te inspirou ou ajudou de alguma forma, deixe uma estrela!**
