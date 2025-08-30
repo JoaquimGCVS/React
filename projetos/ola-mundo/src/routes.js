@@ -1,22 +1,26 @@
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
-import Inicio from './pages/Inicio';
-import SobreMim from './pages/SobreMim';
-import Menu from './components/Menu';
-
-console.log(window.location);
+import PaginaPadrao from "componentes/PaginaPadrao";
+import Rodape from "componentes/Rodape";
+import { BrowserRouter, Routes, Route } from "react-router-dom";
+import Menu from "./componentes/Menu";
+import Inicio from './paginas/Inicio';
+import SobreMim from './paginas/SobreMim';
 
 function AppRoutes() {
   return (
-    <div>
-      <BrowserRouter>
-        <Menu/>
-        <Routes>
-          <Route path='/' element={<Inicio/>}></Route>
-          <Route path='/sobremim' element={<SobreMim/>}></Route>
-          <Route path='*' element={<div>Pagina nao encontrada</div>}></Route>
-        </Routes>
-      </BrowserRouter>
-    </div>
+    <BrowserRouter>
+      <Menu />
+
+      <Routes>
+        <Route path="/" element={<PaginaPadrao />}>
+          <Route index element={<Inicio />} />
+          <Route path="sobremim" element={<SobreMim />} />
+        </Route>
+        
+        <Route path="*" element={<div>Página não encontrada</div>} />
+      </Routes>
+
+      <Rodape />
+    </BrowserRouter>
   );
 }
 
